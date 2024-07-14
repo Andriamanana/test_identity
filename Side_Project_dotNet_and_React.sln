@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNecCore.Identity", "AspNecCore.Identity\AspNecCore.Identity.csproj", "{6A326236-B177-4304-B335-E4D6804A8FCD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{06723F35-210B-43C4-99E9-901A498D3C25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A326236-B177-4304-B335-E4D6804A8FCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A326236-B177-4304-B335-E4D6804A8FCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A326236-B177-4304-B335-E4D6804A8FCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A326236-B177-4304-B335-E4D6804A8FCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFFB25FD-046A-4BBD-A330-1AE7B7D684B7}
+	EndGlobalSection
+EndGlobal
